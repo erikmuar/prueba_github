@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class RuletaDeApuestas {
     public static void main(String[] args) {
+
+        System.out.println("Alvaro melon");
         // Definimos las posibilidades de la ruleta
         String[] posibilidades = new String[20];
         for (int i = 0; i < 10; i++) {
