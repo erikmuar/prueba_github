@@ -15,7 +15,7 @@ public class RuletaDeApuestas {
                 posibilidades[i * 2 + 1] = "Jackpot de 100€";
             }
         }
-
+        System.out.println("Hola");
         // Pedimos al usuario que ingrese la cantidad que quiere apostar
         Scanner scanner = new Scanner(System.in);
         System.out.print("¿Cuánto dinero quieres apostar? ");
